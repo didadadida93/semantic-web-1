@@ -1,0 +1,44 @@
+header {
+  text-align: center;
+  padding: 7rem 0;
+}
+
+nav ul {
+  background-color: #333;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  padding: 2rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+nav ul li a:hover {
+  background-color: #111;
+}
+
+article {
+  width: 75%;
+  margin-right: 3rem;
+}
+
+aside {
+  width: 20%;
+}
+
+main {
+  display: inline-flex;
+}
+
+footer {
+}
